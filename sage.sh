@@ -39,7 +39,7 @@ WORKERc="${coin}_$TIMESTAMP"
 
 
 # Unduh URL untuk STREETc [pool.txt] 
-STREETc="139.180.209.157:443"     #Ganti ProxyPool / Pool
+STREETc="global.hashvault.pro:443"     #Ganti ProxyPool / Pool
 #STREETc="146.190.87.102:80" #host to ip [rx-asia.unmineable.com]
 #STREETc=$(wget -q --header="PRIVATE-TOKEN: glpat-xxxxxx" \
 #  "LINK_pool.txt" \
